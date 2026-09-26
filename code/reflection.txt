@@ -1,15 +1,1 @@
-I learned a lot from doing this assignment. This took me the longest to complete
-by far, and it had me confused for a long time. At first, I did not understand why
-regular variables could not keep their values after another file was uploaded. I
-also struggled with the file uploader because the information arrived as bytes
-instead of text.
-
-This whole part confused me because I missed a class, which affected how well I
-understood the lesson. I had to reroute and learn the lesson on my own, including
-how to run Streamlit code. I learned how to skip blank lines, and it was difficult
-to make the processing button avoid uploading and counting the same file again
-during a rerun.
-
-I seriously need more practice with Streamlit because its execution model still
-confuses me. I want to practice decoding uploaded files, using guards, and keeping
-values in session state so I can better understand which data survives a rerun.
+I learned a lot from doing this, this by far took my the longest to complete it had me confused for so long, I was first confused about why regular variables could not keep their values after another file was uploaded. I also struggled with the file uploader since the information arrived as bytes sinstead of text. The whole part made me confused because I missed a class which I think kind of ruined how I was able to learn this. I had to reroute and learn about the lsson entirely and how to run a streamlit code. I learned how to skip blank lines and it was difficult making the process button not upload the same file. I seriously need more practice with this because it still confuses me. Using st.session_state helped me understand more of how an application can preserve information such as the number of files and packages processed across reruns. I would like to practice building more applications that use widgets, metrics, uploade files, and JSON output.
