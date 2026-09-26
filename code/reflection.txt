@@ -1,6 +1,15 @@
-Write your reflection here.
+I learned a lot from doing this assignment. This took me the longest to complete
+by far, and it had me confused for a long time. At first, I did not understand why
+regular variables could not keep their values after another file was uploaded. I
+also struggled with the file uploader because the information arrived as bytes
+instead of text.
 
-See reflection.md for what makes a good reflection — be specific, use the
-terminology from this assignment (rerun, widget, return value, guard, bytes vs.
-text, decode, session state, initialise once, button-triggered, metric), and make
-it actionable.
+This whole part confused me because I missed a class, which affected how well I
+understood the lesson. I had to reroute and learn the lesson on my own, including
+how to run Streamlit code. I learned how to skip blank lines, and it was difficult
+to make the processing button avoid uploading and counting the same file again
+during a rerun.
+
+I seriously need more practice with Streamlit because its execution model still
+confuses me. I want to practice decoding uploaded files, using guards, and keeping
+values in session state so I can better understand which data survives a rerun.
